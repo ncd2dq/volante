@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Volante",
-    "currentPage": "bio.html",
+    "currentPage": "audition.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 92,
+    "uniqCompNum": 96,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "",
