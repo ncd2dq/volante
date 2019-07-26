@@ -1711,12 +1711,12 @@ body {
 }
 .cid-rx61EWC9f2 .navbar {
   padding: .5rem 0;
-  background: #14cc6b;
+  background: #767676;
   transition: none;
   min-height: 77px;
 }
 .cid-rx61EWC9f2 .navbar-dropdown.bg-color.transparent.opened {
-  background: #14cc6b;
+  background: #767676;
 }
 .cid-rx61EWC9f2 a {
   font-style: normal;
@@ -1807,7 +1807,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rx61EWC9f2 .dropdown .dropdown-menu {
-  background: #14cc6b;
+  background: #767676;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1878,7 +1878,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rx61EWC9f2 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1958,7 +1958,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61EWC9f2 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.6rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx61EWC9f2 .collapsed button.navbar-toggler {
@@ -2386,7 +2386,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61Kcq188 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.6rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx61Kcq188 .collapsed button.navbar-toggler {
@@ -3550,7 +3550,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61RxBabr .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.6rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx61RxBabr .collapsed button.navbar-toggler {
@@ -4043,7 +4043,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61NVj50I .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.6rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx61NVj50I .collapsed button.navbar-toggler {
@@ -4490,7 +4490,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61WgLVYP .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.6rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx61WgLVYP .collapsed button.navbar-toggler {
@@ -5004,7 +5004,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx623Dgn2p .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.6rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx623Dgn2p .collapsed button.navbar-toggler {
@@ -5623,7 +5623,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61ZtD8U6 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.6rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx61ZtD8U6 .collapsed button.navbar-toggler {

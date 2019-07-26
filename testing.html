@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <style>
+  body {
+    overflow-x: hidden;
+  }
+
+  #sidebar-wrapper {
+    min-height: 100vh;
+    margin-right: -15rem;
+    -webkit-transition: margin .25s ease-out;
+    -moz-transition: margin .25s ease-out;
+    -o-transition: margin .25s ease-out;
+    transition: margin .25s ease-out;
+  }
+
+  #sidebar-wrapper .sidebar-heading {
+    padding: 0.875rem 2rem;
+    font-size: 1.2rem;
+  }
+
+  #sidebar-wrapper {
+    position: fixed;
+    right: 0%;
+    margin-right: 0;
+  }
+
+  #page-content-wrapper {
+    min-width: 0;
+    width: 100%;
+  }
+
+  #wrapper.toggled #sidebar-wrapper {
+    margin-right: -15rem;
+  }
+  </style>
+</head>
+
+<body>
+
+  <div class="d-flex" id="wrapper">
+    <!-- Sidebar -->
+    <div class="bg-light border-right" id="sidebar-wrapper">
+      <div class="sidebar-heading">Start Bootstrap </div>
+      <div class="list-group list-group-flush">
+        <a href="#" class="list-group-item list-group-item-action">T1</a>
+        <a href="#" class="list-group-item list-group-item-action">T2</a>
+        <a href="#" class="list-group-item list-group-item-action">T3</a>
+        <a href="#" class="list-group-item list-group-item-action">T4</a>
+        <a href="#" class="list-group-item list-group-item-action">T5</a>
+      </div>
+    </div>
+    <div id="page-content-wrapper">
+      <button class="btn btn-primary" id="menu-toggle">Toggle Menu</button>
+    </div>
+  </div>
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script>
+    $("#menu-toggle").click(function(e) {
+      e.preventDefault();
+      $("#wrapper").toggleClass("toggled");
+      $("#navbarTogglerDemo03").toggleClass("toggled");
+    });
+  </script>
+</body>
+</html>
