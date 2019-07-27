@@ -1699,12 +1699,12 @@ body {
 }
 .cid-rx61EWC9f2 .navbar {
   padding: .5rem 0;
-  background: #767676;
+  background: #14cc6b;
   transition: none;
   min-height: 77px;
 }
 .cid-rx61EWC9f2 .navbar-dropdown.bg-color.transparent.opened {
-  background: #767676;
+  background: #14cc6b;
 }
 .cid-rx61EWC9f2 a {
   font-style: normal;
@@ -1795,7 +1795,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rx61EWC9f2 .dropdown .dropdown-menu {
-  background: #767676;
+  background: #14cc6b;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2384,7 +2384,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rx61Kcq188 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2921,7 +2921,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rxhQcs6b8m button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3001,7 +3001,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rxhQcs6b8m .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.6rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rxhQcs6b8m .collapsed button.navbar-toggler {
@@ -3704,7 +3704,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rx61RxBabr button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4344,7 +4344,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rx61NVj50I button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4954,7 +4954,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rx61WgLVYP button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5456,7 +5456,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rx623Dgn2p button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -6147,7 +6147,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rx61ZtD8U6 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
