@@ -4287,8 +4287,8 @@ body {
 }
 .cid-rx5AwKdbRv {
   padding-top: 30px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-bottom: 60px;
+  background-color: #273766;
 }
 .cid-rx5AwKdbRv h4 {
   font-weight: 500;
@@ -4304,6 +4304,96 @@ body {
 }
 .cid-rx5AwKdbRv .card-wrapper {
   height: 100%;
+}
+.cid-rxntLLxHag {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-rxntLLxHag .content {
+    text-align: center;
+  }
+  .cid-rxntLLxHag .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-rxntLLxHag .img-logo img {
+  height: 6rem;
+}
+.cid-rxntLLxHag .form-group,
+.cid-rxntLLxHag .input-group-btn {
+  padding: 0;
+}
+.cid-rxntLLxHag .form-control {
+  font-size: .75rem;
+  text-align: center;
+  min-width: 150px;
+}
+.cid-rxntLLxHag .input-group-btn .btn {
+  padding: .75rem 1.5625rem !important;
+  margin-left: .625rem;
+  text-transform: none;
+  color: #fff;
+  text-align: center;
+}
+.cid-rxntLLxHag .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-rxntLLxHag .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rxntLLxHag .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rxntLLxHag .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rxntLLxHag .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rxntLLxHag .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rxntLLxHag .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rxntLLxHag .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rxntLLxHag .form-group {
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .cid-rxntLLxHag .foot-logo {
+    text-align: center !important;
+  }
+  .cid-rxntLLxHag .foot-title {
+    text-align: center !important;
+  }
+  .cid-rxntLLxHag .mbr-text {
+    text-align: center !important;
+  }
+  .cid-rxntLLxHag .form-group {
+    margin: 0;
+  }
 }
 .cid-rx61WgLVYP .navbar {
   padding: .5rem 0;
@@ -4711,18 +4801,6 @@ body {
 .cid-rx61WgLVYP .nav-link:hover,
 .cid-rx61WgLVYP .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-rxh7PE1SnI {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(0deg, #767676, #ffffff);
-}
-.cid-rxh7PE1SnI .mbr-iconfont-social {
-  font-size: 32px;
-  color: #333333;
-}
-.cid-rxh7PE1SnI .social-list a:focus {
-  text-decoration: none;
 }
 .cid-rxh9ZawuSi {
   padding-top: 90px;
