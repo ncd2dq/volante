@@ -1704,7 +1704,7 @@ body {
   min-height: 77px;
 }
 .cid-rx61EWC9f2 .navbar-dropdown.bg-color.transparent.opened {
-  background: none;
+  background: #7f1933;
 }
 .cid-rx61EWC9f2 a {
   font-style: normal;
@@ -2196,14 +2196,14 @@ body {
 }
 .cid-rx5xraJeGL {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efdfcd;
+  padding-bottom: 45px;
+  background-color: #2970f1;
 }
 .cid-rx5xraJeGL .title {
   margin-bottom: 2rem;
 }
 .cid-rx5xraJeGL .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-rx5xraJeGL a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2214,6 +2214,29 @@ body {
 }
 .cid-rx5xraJeGL textarea.form-control {
   min-height: 188px;
+}
+.cid-rxxZa8PtUb {
+  background: #ffffff;
+}
+.cid-rxxZa8PtUb .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rxxZa8PtUb .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rxxZa8PtUb figcaption {
+  position: relative;
+}
+.cid-rxxZa8PtUb figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rxxZa8PtUb .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rx61Kcq188 .navbar {
   padding: .5rem 0;
@@ -2464,7 +2487,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61Kcq188 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx61Kcq188 .collapsed button.navbar-toggler {
@@ -2714,7 +2737,7 @@ body {
 }
 .cid-rxhhf9br0c {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rxhhf9br0c .mbr-section-subtitle {
@@ -2750,6 +2773,46 @@ body {
   font-size: 17px;
 }
 .cid-rxhhf9br0c .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rxy2ktbD0P {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rxy2ktbD0P .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rxy2ktbD0P .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rxy2ktbD0P .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rxy2ktbD0P .team-item .item-image img {
+  width: 100%;
+}
+.cid-rxy2ktbD0P .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rxy2ktbD0P .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rxy2ktbD0P .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rxy2ktbD0P .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rxy2ktbD0P .team-item .item-caption {
   background: #efefef;
 }
 .cid-rxhQcs6b8m .navbar {
@@ -3001,7 +3064,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rxhQcs6b8m .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rxhQcs6b8m .collapsed button.navbar-toggler {
@@ -3260,7 +3323,7 @@ body {
 .cid-rx5zyAGJnr {
   padding-top: 75px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #d51142;
 }
 .cid-rx5zyAGJnr .content-slider {
   display: -webkit-flex;
@@ -3784,7 +3847,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61RxBabr .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx61RxBabr .collapsed button.navbar-toggler {
@@ -4424,7 +4487,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61NVj50I .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx61NVj50I .collapsed button.navbar-toggler {
@@ -5034,7 +5097,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61WgLVYP .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx61WgLVYP .collapsed button.navbar-toggler {
@@ -5536,7 +5599,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx623Dgn2p .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx623Dgn2p .collapsed button.navbar-toggler {
@@ -6227,7 +6290,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61ZtD8U6 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 7rem);
   }
 }
 .cid-rx61ZtD8U6 .collapsed button.navbar-toggler {

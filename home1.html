@@ -44,9 +44,9 @@
   text-transform: uppercase;
   position: relative;
   padding: 8px 32px 8px 8px;
-  top: 17%;
+  top: 16%;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 22px;
   color: #818181;
   display: block;
   transition: 0.3s ease-in-out;
@@ -106,6 +106,7 @@ function closeNav() {
   document.getElementById("testing").classList.remove("opened");
 }
 
+// So that the nav doesn't overlap with arrows from the view window
 window.onscroll = function() {
     if(document.getElementById("sidenav").style.width !== "0px") {
       closeNav();
