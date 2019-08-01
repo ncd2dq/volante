@@ -2195,8 +2195,8 @@ body {
   }
 }
 .cid-rx5xraJeGL {
-  padding-top: 90px;
-  padding-bottom: 45px;
+  padding-top: 75px;
+  padding-bottom: 15px;
   background-color: #2970f1;
 }
 .cid-rx5xraJeGL .title {
@@ -2487,7 +2487,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61Kcq188 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 7rem);
+    max-height: calc(98.5vh - 8rem);
   }
 }
 .cid-rx61Kcq188 .collapsed button.navbar-toggler {
@@ -3064,7 +3064,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rxhQcs6b8m .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 7rem);
+    max-height: calc(98.5vh - 8rem);
   }
 }
 .cid-rxhQcs6b8m .collapsed button.navbar-toggler {
@@ -3847,7 +3847,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61RxBabr .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 7rem);
+    max-height: calc(98.5vh - 8rem);
   }
 }
 .cid-rx61RxBabr .collapsed button.navbar-toggler {
@@ -4490,7 +4490,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61NVj50I .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 7rem);
+    max-height: calc(98.5vh - 8rem);
   }
 }
 .cid-rx61NVj50I .collapsed button.navbar-toggler {
@@ -5100,7 +5100,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61WgLVYP .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 7rem);
+    max-height: calc(98.5vh - 8rem);
   }
 }
 .cid-rx61WgLVYP .collapsed button.navbar-toggler {
@@ -5337,6 +5337,7 @@ body {
   font-style: italic;
   color: #676767;
   font-weight: 300;
+  text-align: right;
 }
 .cid-rx5BviMZQM .mbr-author-name {
   font-weight: bold;
@@ -5602,7 +5603,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx623Dgn2p .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 7rem);
+    max-height: calc(98.5vh - 8rem);
   }
 }
 .cid-rx623Dgn2p .collapsed button.navbar-toggler {
@@ -6293,7 +6294,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rx61ZtD8U6 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 7rem);
+    max-height: calc(98.5vh - 8rem);
   }
 }
 .cid-rx61ZtD8U6 .collapsed button.navbar-toggler {
