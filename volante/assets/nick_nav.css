@@ -1,0 +1,30 @@
+.sidenav {
+  height: 100%;
+  width: 0px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: width 0.3s ease-in-out; /*changes how long nav takes to expand*/
+  padding-top: 60px;
+}
+
+.sidenav a {
+  font-family: Gothic-Medium;
+  text-transform: uppercase;
+  position: relative;
+  padding: 8px 32px 8px 8px;
+  top: 16%;
+  text-decoration: none;
+  font-size: 22px;
+  color: #818181;
+  display: block;
+  transition: 0.3s ease-in-out;
+  text-align: right;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}

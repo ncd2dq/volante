@@ -20,78 +20,12 @@
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link rel="stylesheet" href="assets/nick_nav.css" type="text/css">
 
 
 
 </head>
 <body>
-<style>
-.sidenav {
-  height: 100%;
-  width: 0px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  transition: width 0.3s ease-in-out; /*changes how long nav takes to expand*/
-  padding-top: 60px;
-}
-
-.sidenav a {
-  font-family: Gothic-Medium;
-  text-transform: uppercase;
-  position: relative;
-  padding: 8px 32px 8px 8px;
-  top: 16%;
-  text-decoration: none;
-  font-size: 22px;
-  color: #818181;
-  display: block;
-  transition: 0.3s ease-in-out;
-  text-align: right;
-}
-
-.sidenav a:hover {
-  color: #f1f1f1;
-}
-</style>
-<script>
-/**
- * Expand the left side navigation bar and swap the hamburger button "onclick"
- * such that the next click closes it
- */
-function openNavSideBar() {
-  document.getElementById("sidenav").style.width = "250px";
-  document.getElementById("hamburger_nav").onclick = closeNavSideBar;
-  // Mobirise expects class="opened" on the <nav> element for animate for
-  // hamburger
-  document.getElementById("testing").classList.add("opened");
-}
-
-/**
- * Collapse the left side navigation bar and swap the hamburger button "onclick"
- * such that the next click opens it
- */
-function closeNavSideBar() {
-  document.getElementById("sidenav").style.width = "0px";
-  document.getElementById("hamburger_nav").onclick = openNavSideBar;
-  // Mobirise expects class="opened" on the <nav> element for animate for
-  // X
-  document.getElementById("testing").classList.remove("opened");
-}
-
-/**
- * Collapse the left side navigation bar when user scrolls on main page
- * if it's already open
- */
-window.onscroll = function() {
-    if(document.getElementById("sidenav").style.width !== "0px") {
-      closeNavSideBar();
-    }
-};
-</script>
 <!-- Add onclick="openNavSideBar()" to <button> and add id's to <nav> and <button> -->
 <section class="menu cid-rx61EWC9f2" once="menu" id="menu1-1w">
   <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center collapsed bg-color transparent" id="testing">
@@ -106,7 +40,7 @@ window.onscroll = function() {
       <div class="menu-logo">
           <div class="navbar-brand">
               <span class="navbar-logo">
-                  <a href="https://ncd2dq.github.io/volante">
+                  <a href="https://www.michellegarciadance.com/volante/">
                        <img src="assets/images/volante-1-color-logo-yellow-transparent-192x192.png" alt="Volante" title="" style="height: 7rem;">
                   </a>
               </span>
@@ -127,7 +61,7 @@ window.onscroll = function() {
   <a href="https://www.michellegarciadance.com/volante/contact">Contact</a>
 </div>
 
-<section class="engine"><a href="https://mobirise.info/g">how to build your own website</a></section><section class="cid-rx5pLFc2mi mbr-fullscreen mbr-parallax-background" id="header2-9">
+<section class="engine"><a href="https://mobirise.info/c">free website builder</a></section><section class="cid-rx5pLFc2mi mbr-fullscreen mbr-parallax-background" id="header2-9">
 
 
 
@@ -241,6 +175,7 @@ window.onscroll = function() {
     background: none;
   }-->
   <!--<script src="assets/dropdown/js/navbar-dropdown.js"></script> navbar hamburger toggle-->
+  <script src="assets/nick_nav.js"></script>
   <script src="assets/viewportchecker/jquery.viewportchecker.js"></script>
   <script src="assets/theme/js/script.js"></script>
   <script src="assets/slidervideo/script.js"></script>
