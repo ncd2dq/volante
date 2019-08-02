@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Tangerine:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat+Alternates:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -20,21 +22,21 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 4.25rem;
+  font-family: 'Tangerine', handwriting;
+  font-size: 5rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -61,9 +63,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4rem;
+    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1417,7 +1419,7 @@ body {
   background-image: url("../../../assets/images/dsc-3438-copy-2000x1333.jpg");
 }
 .cid-rx5pLFc2mi H1 {
-  text-align: center;
+  text-align: right;
 }
 .cid-rx5rQ2Aful {
   padding-top: 45px;
@@ -2194,10 +2196,22 @@ body {
     margin: 0;
   }
 }
+.cid-rxY7aYFNII .foot-logo {
+  text-align: center;
+}
+.cid-rxY7aYFNII .foot-text {
+  text-align: center;
+}
+.cid-rxY7aYFNII .foot-title {
+  text-align: center;
+}
+.cid-rxY7aYFNII .form-text {
+  text-align: center;
+}
 .cid-rx5xraJeGL {
   padding-top: 75px;
-  padding-bottom: 15px;
-  background-color: #2970f1;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/54729748-419474018800906-7156779923166724096-o-2000x1335.jpg");
 }
 .cid-rx5xraJeGL .title {
   margin-bottom: 2rem;
@@ -2214,29 +2228,6 @@ body {
 }
 .cid-rx5xraJeGL textarea.form-control {
   min-height: 188px;
-}
-.cid-rxxZa8PtUb {
-  background: #ffffff;
-}
-.cid-rxxZa8PtUb .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rxxZa8PtUb .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rxxZa8PtUb figcaption {
-  position: relative;
-}
-.cid-rxxZa8PtUb figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rxxZa8PtUb .image-block {
-    width: 100% !important;
-  }
 }
 .cid-rx61Kcq188 .navbar {
   padding: .5rem 0;
@@ -2734,6 +2725,15 @@ body {
   .cid-rxY7vDnlw2 .form-group {
     margin: 0;
   }
+}
+.cid-rxY7vDnlw2 .foot-title {
+  text-align: center;
+}
+.cid-rxY7vDnlw2 .form-text {
+  text-align: center;
+}
+.cid-rxY7vDnlw2 .foot-text {
+  text-align: center;
 }
 .cid-rxhhf9br0c {
   padding-top: 90px;
@@ -3311,6 +3311,15 @@ body {
   .cid-rxY7ppsDQG .form-group {
     margin: 0;
   }
+}
+.cid-rxY7ppsDQG .foot-title {
+  text-align: center;
+}
+.cid-rxY7ppsDQG .foot-text {
+  text-align: center;
+}
+.cid-rxY7ppsDQG .form-text {
+  text-align: center;
 }
 .cid-rx5FuBFYkM {
   padding-top: 45px;
@@ -4095,6 +4104,15 @@ body {
     margin: 0;
   }
 }
+.cid-rxY7m293xD .foot-title {
+  text-align: center;
+}
+.cid-rxY7m293xD .foot-text {
+  text-align: center;
+}
+.cid-rxY7m293xD .form-text {
+  text-align: center;
+}
 .cid-rx5xY35QPG {
   padding-top: 75px;
   padding-bottom: 0px;
@@ -4104,7 +4122,7 @@ body {
   color: #232323;
 }
 .cid-rxhpgAfUET {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #96bbc3;
 }
@@ -4738,6 +4756,15 @@ body {
     margin: 0;
   }
 }
+.cid-rxY7iFpgCi .foot-title {
+  text-align: center;
+}
+.cid-rxY7iFpgCi .foot-text {
+  text-align: center;
+}
+.cid-rxY7iFpgCi .form-text {
+  text-align: center;
+}
 .cid-rxnrjcGcN9 {
   background-image: url("../../../assets/images/home-background-2000x1335.jpg");
 }
@@ -5264,6 +5291,18 @@ body {
     margin: 0;
   }
 }
+.cid-rxY7fPI9yB .foot-logo {
+  text-align: center;
+}
+.cid-rxY7fPI9yB .foot-title {
+  text-align: center;
+}
+.cid-rxY7fPI9yB .foot-text {
+  text-align: center;
+}
+.cid-rxY7fPI9yB .form-text {
+  text-align: center;
+}
 .cid-rxXXv0xE9f {
   background-image: url("../../../assets/images/img-9858-1-2000x1008.jpg");
 }
@@ -5278,7 +5317,7 @@ body {
 }
 .cid-rx5BviMZQM .testimonial-text {
   font-style: italic;
-  color: #676767;
+  color: #232323;
   font-weight: 300;
   text-align: right;
 }
@@ -5793,6 +5832,18 @@ body {
   .cid-rxY7dE2c4P .form-group {
     margin: 0;
   }
+}
+.cid-rxY7dE2c4P .foot-logo {
+  text-align: center;
+}
+.cid-rxY7dE2c4P .foot-text {
+  text-align: center;
+}
+.cid-rxY7dE2c4P .foot-title {
+  text-align: center;
+}
+.cid-rxY7dE2c4P .form-text {
+  text-align: center;
 }
 .cid-rxnc4pvD7i {
   padding-top: 90px;
@@ -6487,4 +6538,46 @@ body {
   .cid-rxnyAAFrxo .form-group {
     margin: 0;
   }
+}
+.cid-rxnyAAFrxo .foot-title {
+  text-align: center;
+}
+.cid-rxnyAAFrxo .foot-text {
+  text-align: center;
+}
+.cid-rxnyAAFrxo .form-text {
+  text-align: center;
+}
+.cid-ry1q4xgD2s {
+  background-image: url("../../../assets/images/dsc-3619-2000x1335.jpg");
+}
+.cid-ry1q4xgD2s .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-ry1q4xgD2s .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-ry1q4xgD2s .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-ry1q4xgD2s .mbr-text {
+  color: #ffffff;
+}
+.cid-ry1q4xgD2s .card {
+  padding-bottom: 1.5rem;
+}
+.cid-ry1q4xgD2s .mbr-text,
+.cid-ry1q4xgD2s .mbr-section-btn {
+  text-align: right;
+}
+.cid-ry1q4xgD2s H1 {
+  text-align: right;
 }
